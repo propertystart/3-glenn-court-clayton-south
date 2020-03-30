@@ -24,29 +24,29 @@ var APP_DATA = {
       ],
       "faceSize": 1344,
       "initialViewParameters": {
-        "yaw": -2.9117942292920382,
-        "pitch": -0.04674450137406083,
+        "yaw": -2.740927406633279,
+        "pitch": 0.027512944559351382,
         "fov": 1.3219339076578436
       },
       "linkHotspots": [
         {
-          "yaw": -0.6587446514100801,
-          "pitch": 0.32867755904764806,
-          "rotation": 0,
-          "target": "1-living-room"
+          "yaw": -0.6530300403159224,
+          "pitch": 0.31635397757315786,
+          "rotation": 0.7853981633974483,
+          "target": "1-living"
         },
         {
-          "yaw": 1.718201803539288,
-          "pitch": 0.2570482096316784,
+          "yaw": 1.7207888769656927,
+          "pitch": 0.2998657285004285,
           "rotation": 0,
-          "target": "2-master-br-with-en-suite"
+          "target": "2-master-with-wir"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-living-room",
-      "name": "Living Room",
+      "id": "1-living",
+      "name": "Living",
       "levels": [
         {
           "tileSize": 256,
@@ -68,23 +68,29 @@ var APP_DATA = {
       ],
       "faceSize": 1344,
       "initialViewParameters": {
-        "yaw": -2.597484503045184,
-        "pitch": -0.11387065330655233,
+        "yaw": -2.5757723774001313,
+        "pitch": -0.046162919580464035,
         "fov": 1.3219339076578436
       },
       "linkHotspots": [
         {
-          "yaw": -1.5766792435160895,
-          "pitch": 0.3651857973257364,
+          "yaw": -1.5748904459111657,
+          "pitch": 0.3114026207746221,
           "rotation": 0,
           "target": "0-kitchenmeals"
+        },
+        {
+          "yaw": -3.0620476816101103,
+          "pitch": 0.2713710697878895,
+          "rotation": 0,
+          "target": "2-master-with-wir"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-master-br-with-en-suite",
-      "name": "Master BR with En-Suite",
+      "id": "2-master-with-wir",
+      "name": "Master with WIR",
       "levels": [
         {
           "tileSize": 256,
@@ -106,18 +112,11 @@ var APP_DATA = {
       ],
       "faceSize": 1344,
       "initialViewParameters": {
-        "yaw": 1.2551820756137317,
-        "pitch": 0.0963600518713914,
+        "yaw": 1.4744481641993579,
+        "pitch": 0.05425462959464156,
         "fov": 1.3219339076578436
       },
-      "linkHotspots": [
-        {
-          "yaw": 3.135912957605882,
-          "pitch": 0.07012126636137239,
-          "rotation": 1.5707963267948966,
-          "target": "0-kitchenmeals"
-        }
-      ],
+      "linkHotspots": [],
       "infoHotspots": []
     },
     {
@@ -144,18 +143,11 @@ var APP_DATA = {
       ],
       "faceSize": 1344,
       "initialViewParameters": {
-        "yaw": -0.27177105641933075,
-        "pitch": 0.1121455734927217,
+        "yaw": -0.4025462680794156,
+        "pitch": 0.06072758315964677,
         "fov": 1.3219339076578436
       },
-      "linkHotspots": [
-        {
-          "yaw": 2.4971975698911297,
-          "pitch": 0.07072435648989561,
-          "rotation": 5.497787143782138,
-          "target": "0-kitchenmeals"
-        }
-      ],
+      "linkHotspots": [],
       "infoHotspots": []
     },
     {
@@ -182,18 +174,11 @@ var APP_DATA = {
       ],
       "faceSize": 1344,
       "initialViewParameters": {
-        "yaw": -0.9937691047069777,
-        "pitch": 0.30795051257937445,
+        "yaw": -0.749779199071039,
+        "pitch": 0.09013185734030671,
         "fov": 1.3219339076578436
       },
-      "linkHotspots": [
-        {
-          "yaw": 1.3442697837393478,
-          "pitch": 0.06039714481520164,
-          "rotation": 0,
-          "target": "0-kitchenmeals"
-        }
-      ],
+      "linkHotspots": [],
       "infoHotspots": []
     }
   ],
